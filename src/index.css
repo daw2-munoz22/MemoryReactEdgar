@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.app {
+    background-color: slategray;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.cartas{
+    color:blue;
+    text-align: center;
+}
+
+#home {
+    text-align: center;
+}
